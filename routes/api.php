@@ -14,9 +14,29 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//login
+
+//account
+
+
+
 // Biblioteca
 Route::get('/Biblioteca',[App\Http\Controllers\BibliotecaController::class,'index']);
 Route::post('/Biblioteca',[App\Http\Controllers\BibliotecaController::class,'index']);
+
+
+// citotor
+
+
+//carte
+
+
+//imprumnut
+
+
+//restiture
+
+
 
 
 
